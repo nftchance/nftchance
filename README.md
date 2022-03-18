@@ -1,4 +1,12 @@
-### Hi there 👋
+HEY. ALL CODE IS MIT LICENSED. COPY AND PASTE AS YOU PLEASE. NO CREDIT NEEDED.
+
+IF I WANT TO WORK WITH YOU, YOU WILL KNOW 
+
+NO EQUITY STAKES OR PRESELL ACCESS
+
+IF YOU COPY AND PASTE -- AIRDROP ME A TOKEN TO NFTCHANCE.ETH -- THANKS, LOVE YOU
+
+- TO REACH ME: [@NFTCHANCE](https://twitter.com/nftchance)
 
 <!--
 **nftchance/nftchance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
