@@ -1,22 +1,13 @@
-- 👋 HEY. ALL CODE IS MIT LICENSED. COPY AND PASTE AS YOU PLEASE. NO CREDIT NEEDED.
+🟠 WELCOME TO CHANCE.
 
-- 🌱 IF I WANT TO WORK WITH YOU, YOU WILL KNOW 
+ALL CODE IS MIT LICENSED. COPY AND PASTE AS YOU PLEASE.
 
-- 📫 IF YOU COPY AND PASTE -- AIRDROP ME A TOKEN TO NFTCHANCE.ETH -- THANKS, LOVE YOU
+- **IF I WANT TO WORK WITH YOU:** YOU WILL KNOW.
+- **IF YOU COPY AND PASTE:** AIRDROP ME A TOKEN TO NFTCHANCE.ETH.
+- **IF YOU WANT TO INVEST:** FIND A REASON FOR ME TO SAY YES.
 
-- 💬: [@NFTCHANCE](https://twitter.com/nftchance)
+THANKS, LOVE YOU
 
-<!--
-**nftchance/nftchance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐤: [@NFTCHANCE](https://twitter.com/nftchance)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍: [WEBSITE](https://chance.utc24.io)
