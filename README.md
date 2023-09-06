@@ -2,10 +2,7 @@
 
 ![Header image](https://raw.githubusercontent.com/nftchance/nftchance/main/opengraph.png)
 
-NEW CODE IS BUSL-1.1 LICENSED. 
-OLD CODE IS MIT LICENSED. 
-
-COPY AND PASTE AS YOU PLEASE.
+**NEW CODE IS BUSL-1.1 LICENSED. OLD CODE IS MIT LICENSED.**
 
 - **IF I WANT TO WORK WITH YOU:** YOU WILL KNOW.
 - **IF YOU COPY AND PASTE:** AIRDROP ME A TOKEN TO NFTCHANCE.ETH.
