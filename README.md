@@ -1,6 +1,8 @@
 🟠 WELCOME TO CHANCE.
 
-NEW CODE IS AGPL-3.0-OR-LATER LICENSED. 
+![Header image](https://raw.githubusercontent.com/nftchance/nftchance/main/opengraph.png)
+
+NEW CODE IS BUSL-1.1 LICENSED. 
 OLD CODE IS MIT LICENSED. 
 
 COPY AND PASTE AS YOU PLEASE.
