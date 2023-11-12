@@ -1,6 +1,4 @@
-🟠 WELCOME TO CHANCE.
-
-![Header image](https://raw.githubusercontent.com/nftchance/nftchance/main/opengraph.png)
+🟠 HI.
 
 **NEW CODE IS BUSL-1.1 LICENSED. OLD CODE IS MIT LICENSED.**
 
