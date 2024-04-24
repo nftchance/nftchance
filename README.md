@@ -12,6 +12,10 @@ const CHANCE = {
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     {
+        title: "Software Ecdysis.",
+        url: "https://chance.utc24.io/paper/software-ecdysis/"
+    },
+    {
         title: "An Open-Source MEV Engine In Typescript.",
         url: "https://chance.utc24.io/paper/mev/"
     },
@@ -26,10 +30,6 @@ const CHANCE = {
     {
         title: "Highly Opinionated Primitive Interfaces.",
         url: "https://chance.utc24.io/paper/highly-opinionated-interfaces/"
-    },
-    {
-        title: "Decentering Your Digital Identity.",
-        url: "https://chance.utc24.io/paper/decentered-identity/"
     }
   ]
 }
