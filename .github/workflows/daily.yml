@@ -17,9 +17,8 @@ jobs:
       - run: bun index.ts
       - name: 📝 Configure Git Commit
         run: |
-          git config user.name "nftchance"
-          git config user.email "chance@utc24.io"
-
+          git config --local user.name "nftchance"
+          git config --local user.email "chance@utc24.io"
       - name: 📝 Commit Changes
         run: |
           git add .
