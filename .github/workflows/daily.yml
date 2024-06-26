@@ -29,4 +29,9 @@ jobs:
         run: |
           git add .
           git diff --staged --quiet || git commit -m "chore: sync readme"
-          git push
+      - name: 🫸 Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: '.'
+          github_token: ${{ secrets.COMMIT_TOKEN }}
+          branch: main
