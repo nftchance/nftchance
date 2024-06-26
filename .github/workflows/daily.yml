@@ -15,6 +15,12 @@ jobs:
       - uses: oven-sh/setup-bun@v1
       - run: bun install
       - run: bun index.ts
+      - name: ⏰ Set date variable
+        run: |
+          echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - name: ⏰ Write into CURRENT_DATE
+        run: |
+          echo $date > CURRENT_DATE
       - name: 📝 Configure Git Commit
         run: |
           git config --local user.name "nftchance"
