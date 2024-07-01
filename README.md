@@ -8,7 +8,7 @@ const CHANCE = {
       "Large-Scale Business Optimizaton",
       "Visual System Design"
   ],
-  transactionsEnabled: 629167,
+  transactionsEnabled: 629193,
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     {
