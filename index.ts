@@ -85,7 +85,7 @@ async function getTransactionsEnabled() {
 		return transactions
 	}
 
-	return Number(json[0].TRANSACTIONS) + 64_151
+	return Number(json[0].TRANSACTIONS)
 }
 
 const readme = dedent`
