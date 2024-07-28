@@ -12,6 +12,10 @@ const CHANCE = {
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     {
+        title: "Products Of Loneliness.",
+        url: "https://chance.utc24.io/paper/products-of-loneliness/"
+    },
+    {
         title: "Software Ecdysis.",
         url: "https://chance.utc24.io/paper/software-ecdysis/"
     },
@@ -26,10 +30,6 @@ const CHANCE = {
     {
         title: "Improvement As Self-Inflicted Punishment.",
         url: "https://chance.utc24.io/paper/improvement-as-punishment/"
-    },
-    {
-        title: "Highly Opinionated Primitive Interfaces.",
-        url: "https://chance.utc24.io/paper/highly-opinionated-interfaces/"
     }
   ]
 }
