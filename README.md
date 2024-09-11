@@ -12,6 +12,10 @@ const CHANCE = {
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     {
+        title: "The Glass Box.",
+        url: "https://chance.utc24.io/paper/glass-box/"
+    },
+    {
         title: "Products Of Loneliness.",
         url: "https://chance.utc24.io/paper/products-of-loneliness/"
     },
@@ -26,10 +30,6 @@ const CHANCE = {
     {
         title: "Buying Content For Your Digital Platform.",
         url: "https://chance.utc24.io/paper/buying-platform-content-creation/"
-    },
-    {
-        title: "Improvement As Self-Inflicted Punishment.",
-        url: "https://chance.utc24.io/paper/improvement-as-punishment/"
     }
   ]
 }
