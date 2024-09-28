@@ -1,14 +1,14 @@
 ```typescript
 const CHANCE = { 
   role: "CEO",
-  work: "Terminally Online",
+  worksAt: "Terminally Online",
   languages: ["Python", "Typescript", "Solidity", "Assembly", "SQL"],
   specialties: [
       "Full-Stack & Onchain Development", 
       "Large-Scale Business Optimizaton",
       "Visual System Design"
   ],
-  transactionsEnabled: 114290,
+  transactionsEnabled: 695822,
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     
