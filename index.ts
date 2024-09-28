@@ -29,6 +29,9 @@ async function fetchSitemapUrls(sitemapUrl: string) {
         throw new Error(`Failed to fetch url: ${response.statusText}`);
 
       const html = await response.text();
+      console.log(
+        html.match(/<title>(.*?)<\/title>/)?.[1].replace(" | CHANCE", "") ?? ""
+      );
       const title = (
         html.match(/<title>(.*?)<\/title>/)?.[1].replace(" | CHANCE", "") ?? ""
       )
