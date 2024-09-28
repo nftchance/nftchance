@@ -85,18 +85,14 @@ async function getTransactionsEnabled() {
     return transactions;
   }
 
-<<<<<<< HEAD
   return Number(json[0].TRANSACTIONS) + 64_151;
-=======
-	return Number(json[0].TRANSACTIONS)
->>>>>>> c29a1c7745c54d30d343e3959ee5bea47e752133
 }
 
 const readme = dedent`
 \`\`\`typescript
   const CHANCE = { 
     role: "CEO",
-    work: "Terminally Online",
+    worksAt: "Terminally Online",
     languages: ["Python", "Typescript", "Solidity", "Assembly", "SQL"],
     specialties: [
         "Full-Stack & Onchain Development", 
