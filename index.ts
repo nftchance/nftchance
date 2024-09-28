@@ -42,20 +42,20 @@ async function fetchSitemapUrls(sitemapUrl: string) {
         .join(" ")
         .replaceAll("Erc", "ERC")
         .replaceAll("Mev", "MEV");
-      
 
       urls[i].title = title;
     }
 
-    return urls.slice(0, 5)
-    .map(
-      (url: any) =>
-        `{
+    return urls
+      .slice(0, 5)
+      .map(
+        (url: any) =>
+          `{
           title: "${url.title}",
           url: "${url.loc}"
       }`
-    )
-    .join(",\n      ");
+      )
+      .join(",\n      ");
   } catch (error) {
     console.error(error);
     return [];
@@ -63,29 +63,29 @@ async function fetchSitemapUrls(sitemapUrl: string) {
 }
 
 async function getTransactionsEnabled() {
-	const transactions = 114_290
+  const transactions = 114_290;
 
-	const response = await fetch(
-		'https://flipsidecrypto.xyz/api/v1/queries/8bd312e2-e506-4a9b-9f25-6fe5ac70e178/data/latest',
-		{
-			method: 'GET',
-			headers: {
-				'Content-Type': 'application/json'
-			}
-		}
-	)
+  const response = await fetch(
+    "https://flipsidecrypto.xyz/api/v1/queries/8bd312e2-e506-4a9b-9f25-6fe5ac70e178/data/latest",
+    {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    }
+  );
 
-	if (!response.ok) {
-		return transactions
-	}
+  if (!response.ok) {
+    return transactions;
+  }
 
-	const json: any = await response.json()
+  const json: any = await response.json();
 
-	if (json.length === 0) {
-		return transactions
-	}
+  if (json.length === 0) {
+    return transactions;
+  }
 
-	return Number(json[0].TRANSACTIONS) + 64_151
+  return Number(json[0].TRANSACTIONS) + 64_151;
 }
 
 const readme = dedent`
@@ -106,6 +106,6 @@ const readme = dedent`
     ]
 }
 \`\`\`
-`
+`;
 
 await Bun.write("README.md", readme);
