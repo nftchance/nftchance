@@ -91,8 +91,8 @@ async function getTransactionsEnabled() {
 const readme = dedent`
 \`\`\`typescript
   const CHANCE = { 
-    role: "Design Engineer",
-    openForWork: "If I want to work with you, you will know.",
+    role: "CEO",
+    work: "Terminally Online",
     languages: ["Python", "Typescript", "Solidity", "Assembly", "SQL"],
     specialties: [
         "Full-Stack & Onchain Development", 
