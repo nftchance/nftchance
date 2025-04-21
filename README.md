@@ -12,6 +12,10 @@ const CHANCE = {
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     {
+        title: "Martyr To Morals.",
+        url: "https://chance.utc24.io/paper/martyr-to-morals/"
+    },
+    {
         title: "Mimetic Dependency.",
         url: "https://chance.utc24.io/paper/mimetic-dependency/"
     },
@@ -26,10 +30,6 @@ const CHANCE = {
     {
         title: "Software Ecdysis.",
         url: "https://chance.utc24.io/paper/software-ecdysis/"
-    },
-    {
-        title: "An Open-Source MEV Engine In Typescript.",
-        url: "https://chance.utc24.io/paper/mev/"
     }
   ]
 }
