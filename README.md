@@ -12,6 +12,10 @@ const CHANCE = {
   scheduleAMeeting: "https://chance.utc24.io/tools/meeting/",
   recentArticles: [
     {
+        title: "Man At The Precipice Of Desire.",
+        url: "https://chance.utc24.io/paper/man-at-the-precipice-of-desire/"
+    },
+    {
         title: "Martyr To Morals.",
         url: "https://chance.utc24.io/paper/martyr-to-morals/"
     },
@@ -26,10 +30,6 @@ const CHANCE = {
     {
         title: "Products Of Loneliness.",
         url: "https://chance.utc24.io/paper/products-of-loneliness/"
-    },
-    {
-        title: "Software Ecdysis.",
-        url: "https://chance.utc24.io/paper/software-ecdysis/"
     }
   ]
 }
